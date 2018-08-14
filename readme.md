@@ -1,4 +1,4 @@
-# This repo consists of multiple problems and topics which I learned during my preparation for the technical interview.
+This repo consists of multiple problems and topics which I learned during my preparation for the technical interview.
 
 # To be able to use it do following:
   * clone the repo `git clone https://github.com/istotaD503/interview-prep.git`
