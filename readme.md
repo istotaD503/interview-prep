@@ -1,0 +1,1 @@
+This repo consists of multiple problems and topics which I learned during my preparation for the technical interview.
